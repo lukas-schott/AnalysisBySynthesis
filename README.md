@@ -61,7 +61,7 @@ pip3 --no-cache-dir install \
 Have fun :).
  
  
-[1] Lukas Schott, Jonas Rauber, Matthias Bethge, and Wieland Brendel. Towards the first adversarially robust neural network model on mnist. International Conference for Learning Representations 2019.
+[1] Lukas Schott, Jonas Rauber, Matthias Bethge, and Wieland Brendel. Towards the first adversarially robust neural network model on mnist. International Conference for Learning Representations 2019, 2019.
 
 [2] Aleksander Madry, Aleksandar Makelov, Ludwig Schmidt, Dimitris Tsipras, and Adrian Vladu. Towards deep
 learning models resistant to adversarial attacks. In _International Conference on Learning Representations_, 2018. URL https://openreview.net/forum?id=rJzIBfZ
